@@ -353,4 +353,4 @@ client.user.setGame(`By : A7mmmed.`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(545585305835536394);
